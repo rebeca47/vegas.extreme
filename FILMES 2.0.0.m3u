@@ -1,0 +1,139 @@
+#EXTM3U
+
+######################################### FILMES ####################### ########################
+
+#EXTINF: -1 tvg-id = "Globorj.br" tvg-name = "Globo RJ" tvg-logo = "https://imgur.com/5RQ1PxL.png" group-title = "ABERTOS", Globo RJ HD
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ingresso-a.akamaihd.net/img/cinema/cartaz/7766-cartaz.jpg" group-title="FILMES",1 HARRY POTTER E A PEDRA FILOSOFAL
+https://www.googleapis.com/drive/v3/files/1ugHN4CI9BzlNCTz_QW5fCoWg0YpuEzii?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pm1.narvii.com/6841/2488744bbf9aba642a384d86198dc9de3f568d19v2_hq.jpg" group-title="FILMES", 2 HARRY POTTER E A CAMARA SECRETA
+https://www.googleapis.com/drive/v3/files/1GwJBnUxdKNud63iureOjE2KQIqDSyKmO?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://capas-g.wmixvideo.com.br/cx135358.jpg" group-title="FILMES",3 HARRY POTTER E O PRISONEIRO DE AZKABAN
+https://www.googleapis.com/drive/v3/files/1aR1hdFV9qq1ArO_KVlV-Gurr4xD-ZeMZ?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://assetsgn.nowonline.com.br/assets/p90599_v_v12_bf.jpg?w=1920&h=2880" group-title="FILMES",4 HARRY POTTER E O CALICE DO FOGO
+https://www.googleapis.com/drive/v3/files/1tM6gd7J9bRd8mVB5Wp8Nhn9MM8M4aqtf?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",5 HARRY POTTER E A HORDEM DA FENIX
+https://www.googleapis.com/drive/v3/files/13qI7sRNLlSpS2zcgmmekMlmI6RKwWAT6?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",6 HARRY POTTER E O ENIGMA DO PRINCIPE
+https://www.googleapis.com/drive/v3/files/1TTljgQa8fI7i1G15EQ0p8Pxpb73Ck8kv?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",7 HARRY POTTER E AS RELÍQUIAS DA MORTE,PT-1
+https://www.googleapis.com/drive/v3/files/1VoHaFoQW3jNY6C8dWcih7aanOMSVJqLj?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",8 HARRY POTTER E AS RELÍQUIAS DA MORTE,PT-2
+ttps://www.googleapis.com/drive/v3/files/1Qlsl9yHg6EWpoovNl4tYexw3PnC1GgIW?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", AVES DE RAPINA ALEQUINA E SUA EMANCIPAÇÃO
+https://www.googleapis.com/drive/v3/files/1FN8Cg2YsKjJ2ApxE1mF-8SjHsCC2Sm2c?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", RESIDENTE IVEL 1- O HOSPEDE MALDITO
+https://www.googleapis.com/drive/v3/files/1CclK3HBNU-8ezfaiCwbVxd0lpyHFgfM1?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",RESIDENT IVEL 2- APOCALIPSI
+https://www.googleapis.com/drive/v3/files/1OPDwg0EQEzqeBjvkXI_e9XuHRhSJnEk-?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", RESIDENT IVEL 3- A EXTINÇÃO
+https://www.googleapis.com/drive/v3/files/1w-7las2yc6tM29OjO0N3V0crRnSA9BgV?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", RESIDENT IVEL 4- RECOMEÇO 
+https://www.googleapis.com/drive/v3/files/1YO7R3s8FbqccHD4J60wZVrMo7c__rC16?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", RESIDENT IVEL 5 - RETRIBUIÇÃO
+https://www.googleapis.com/drive/v3/files/12IWVpgTs3Qv_24aIz4rRBdxGfChoMqDu?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", RESIDENT IVEL 6 - CAPITULO FINAL 
+https://www.googleapis.com/drive/v3/files/1XwrYlfp10w3MhzdFKKaDA-LNfMb0vp20?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", GAROTA INFERNAL
+https://www.googleapis.com/drive/v3/files/1cGSEO0tEPg44Yt1AcVXpNgdzMOXXZ64F?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", O RETORNO DE MARY POPPINS 
+https://www.googleapis.com/drive/v3/files/1JCTB87dJVMQBWRnzfgpCx5BPzIrtkQc9?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A HORA DO PESADELO 2
+https://www.googleapis.com/drive/v3/files/1nsB8PRF40wiqo3KRzsJp9idrLxG6kSe_?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A HORA DO PESADELO 3
+https://www.googleapis.com/drive/v3/files/1QT9TBojF3-wQw77UXZ4lt-umpEDwolCI?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A HORA DO PESADELO 4
+https://www.googleapis.com/drive/v3/files/15NL4fg31tKBSMNNdfWB9Xk5a75M14ypu?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A HORA DO PESADELO 5
+https://www.googleapis.com/drive/v3/files/13s3POOCp-sLglFU9BvTF7KKW_D_vEHSA?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A HORA DO PESADELO 6
+https://www.googleapis.com/drive/v3/files/1sz9v5k9jwq1GbGaXM65xkwiFshWJzrEC?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A HORA DO PESADELO 7
+https://www.googleapis.com/drive/v3/files/1JIv-b0F-9ITcu6qUYlOWb4u4U4cqUAOF?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A HORA DO PESADELO 8
+https://www.googleapis.com/drive/v3/files/1PVM78p57dCziHqqAyrwkJh8AHrMDLXW4?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", OLHOS FAMINTOS 1
+https://www.googleapis.com/drive/v3/files/1jFlH4ziooib8NMu6h6SQ6Qh6DVlAF3EA?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", OLHOS FAMINTOS 2
+https://www.googleapis.com/drive/v3/files/1BbNKyCI7c3MVo5mCCBCxj207AmBtmVj7?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", OLHOS FAMINTOS 3
+https://www.googleapis.com/drive/v3/files/1epn9ZijugDbzUFtVr1u7_IEFMWrAS8ti?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", RIO DA TRAIÇÃO 
+https://www.googleapis.com/drive/v3/files/164lnEOEJ8HzJyb2U-QuZdg4WXoqYFrMM?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", EU SOU TODAS AS MENINAS
+https://www.googleapis.com/drive/v3/files/1GosX6Xn164j7pHXa-X731QRzOvX4sS8n?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", DEUS NÃO ESTÁ MORTO
+https://www.googleapis.com/drive/v3/files/1PcdcdzA2o44H9aH3VKriBEh5YlCFAJcX?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", DEUS NÃO ESTÁ MORTO 2
+https://www.googleapis.com/drive/v3/files/0Bz2QRX--_UJ8Nnhxd0U0ZkFMM2s?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A PEDRA DA SERPENTE
+https://www.googleapis.com/drive/v3/files/10CTAS-MGXASHGoe6l-zweYJ6_4Wg9Pjv?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", CORAGEM SOB FOGO (1996)
+https://www.googleapis.com/drive/v3/files/1GuKvlKaKLKdoyB5qxCWpVSwFobkmna0S?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",TUDO DE NOVO (2021) 
+https://www.googleapis.com/drive/v3/files/14sh91q2X6VZUHI18_udh1jyCpF04kqB0?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", INVOCAÇÃO DO MAL 2
+https://www.googleapis.com/drive/v3/files/1IsX5yC6Rt4AW0wacyOQ_BnMdkxZobKOA?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", ROTA DE FUGA [2013]
+https://www.googleapis.com/drive/v3/files/1HDBI48Ov2z8AjVPqu8XeP3OPSpOuTvKt?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", ROTA DE FUGA 2 [2018]
+https://www.googleapis.com/drive/v3/files/1GALmHEoOeeThTO-59uvY8L6Aq0KD__bm?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", O NEVOEIRO [2017]
+https://www.googleapis.com/drive/v3/files/1C2Erlr2zaS8lIDVDjtPvwAQaHHwGlWz1?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", NOSSO LAR [2010]
+https://www.googleapis.com/drive/v3/files/0B7SHU5iChJgQejVneUx2OXVlMXc?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES", A PRINCESA [1995]
+https://www.googleapis.com/drive/v3/files/1rDGKhoyCdYb0k_VRqLJjxecWbJuSO1O5?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="FILMES",VjEGAS
+https://www.googleapis.com/drive/v3/files/1PEapOjnC7axiYjk7eFhv1YQSH8gNdPpj?alt=media&key=AIzaSyDO1wB_avHWAtUATuAzTruUz4iRAfcYRDs
+
+
+
+
+
